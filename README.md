@@ -1,6 +1,6 @@
 # infix-to-postfix-postfix-calculator
 
-This project is one hundred percent peculiar. It was asked at one of the Akbank's coding exam.
+Code of this project is one hundred percent peculiar. It was asked at one of the Akbank's coding exam.
 
 - Converts Infix to Postfix and then solves it by using postfix.
 - Uses a stack to convert, uses 2 stacks to solve it by using postfix.
